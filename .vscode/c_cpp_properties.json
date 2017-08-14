@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceRoot}"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "~/Documents/Arduino/libraries",
+                    "${workspaceRoot}"
+                ]
+            },
+            "defines": [],
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 2
+}
